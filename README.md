@@ -5,6 +5,8 @@ Info on serverless &amp; microservices (containers, composition/load balancers, 
 
 ### <a href="https://kubernetes.io/" target="_blank">Kubernetes</a>
 
+### <a href="https://rakyll.org/" target="_blank">JBD from Google aka @rakyll - Go, the unwritten parts</a>
+
 ### Algorithmia presentiation to FirstMark
 Practical motivation for - and high level description of - serverless + microservices for AI (training, inference) infrastructure:
 <a href="http://firstmarkcap.com/insights/building-operating-system-ai/" target="_blank">Algorithmia's operating system for AI</a>
