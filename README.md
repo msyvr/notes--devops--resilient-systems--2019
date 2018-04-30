@@ -1,5 +1,7 @@
-# resources---devops--microservices-and-serverless
-Info on serverless &amp; microservices (containers, composition/load balancers, ...)
+# resources---devops
+Info on serverless &amp; microservices (containers, composition/load balancers, ...), resilient systems
+
+### <a href="https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/" target="_blank">Resilient systems: Chaos engineering</a>
 
 ### <a href="https://docs.docker.com/" target="_blank">Docker docs</a>
 
