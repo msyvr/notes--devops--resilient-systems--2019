@@ -6,7 +6,6 @@ Info on serverless &amp; microservices (containers, composition/load balancers, 
 <a href="https://www.gremlin.com/community/tutorials/4-chaos-experiments-to-start-with/" target="_blank">Chaos engineering - theory to practice: getting started</a>
 
 <a href="https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/" target="_blank">Resilient systems: Chaos engineering</a>
-<hr>
 
 ## Containers, microservices, orchestration
 
