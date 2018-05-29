@@ -7,7 +7,7 @@ Info on serverless &amp; microservices (containers, composition/load balancers, 
 
 <a href="https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/" target="_blank">Resilient systems: Chaos engineering</a>
 
-## Containers, microservices, orchestration
+## Containers, microservices, functions, orchestration
 
 <a href="https://gist.github.com/acolyer/23043b422046803d0a78ceb934fa8cc0" target="_blank">A Colyer blog: container related posts</a>
 
@@ -20,6 +20,8 @@ Info on serverless &amp; microservices (containers, composition/load balancers, 
 Algorithmia presentiation to FirstMark: Practical motivation for - and high level description of - serverless + microservices for AI (training, inference) infrastructure - <a href="http://firstmarkcap.com/insights/building-operating-system-ai/" target="_blank">Algorithmia's operating system for AI</a>
 
 Martin Fowler's site: <a href="https://martinfowler.com/microservices/" target="_blank">microservices</a> and <a href="https://martinfowler.com/articles/serverless.html" target="_blank">serverless</a>
+
+<a href="https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29" target="_blank">Small functions considered harmful - Cindy Sridharan</a>
 
 ## Observability
 
