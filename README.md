@@ -32,6 +32,12 @@ Martin Fowler's site: <a href="https://martinfowler.com/microservices/" target="
 
 <a href="https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058" target="_blank">JBD from Google: Google's approach to observability</a>
 
+[Want to debug latency?](https://medium.com/observability)
+
+[Observability 3 ways: logging, metrics, tracing](https://www.dotconferences.com/2017/04/adrian-cole-observability-3-ways-logging-metrics-tracing)
+
+[Distributed tracing in 10 minutes - Brandon Gonzalez](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
+
 ## Unikernels
 
 <a href="https://www.youtube.com/watch?v=24rvIB4_v4U" target="_blank">Michael Bright's talk on unikernels (2017)</a>
