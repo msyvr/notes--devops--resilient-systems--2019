@@ -1,6 +1,9 @@
 # resources---devops
 Info on serverless &amp; microservices (containers, composition/load balancers, ...), resilient systems
 
+## Servers
+<a href="https://dev.to/legobox/understanding-nginx-proxying-reverse-proxying-load-balancing-1pjd" target="_blank">Understanding nginx - dev.to article</a>
+
 ## Chaos engineering
 
 <a href="https://www.gremlin.com/community/tutorials/4-chaos-experiments-to-start-with/" target="_blank">Chaos engineering - theory to practice: getting started</a>
