@@ -1,11 +1,13 @@
 # resources---devops
 Info on serverless &amp; microservices (containers, composition/load balancers, ...), resilient systems
 
-## Chaos engineering for resilient systems
+## Chaos engineering
 
 <a href="https://www.gremlin.com/community/tutorials/4-chaos-experiments-to-start-with/" target="_blank">Chaos engineering - theory to practice: getting started</a>
 
 <a href="https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/" target="_blank">Resilient systems: Chaos engineering</a>
+
+<a href="https://twitter.com/tammybutow/status/996567244149702656" target="_blank">Tammy Butow - Gremlin - Resources for chaos eng (tweet)</a>
 
 ## Containers, microservices, functions, orchestration
 
