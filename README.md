@@ -38,6 +38,8 @@ Martin Fowler's site: <a href="https://martinfowler.com/microservices/" target="
 
 [Distributed tracing in 10 minutes - Brandon Gonzalez](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
 
+[Why is distributed tracing broken - JBD rakyll @ google](https://medium.com/@rakyll/why-is-distributed-tracing-broken-78f541af122)
+
 ## Unikernels
 
 <a href="https://www.youtube.com/watch?v=24rvIB4_v4U" target="_blank">Michael Bright's talk on unikernels (2017)</a>
