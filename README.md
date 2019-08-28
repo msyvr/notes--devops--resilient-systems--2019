@@ -14,6 +14,8 @@ Info on serverless &amp; microservices (containers, composition/load balancers, 
 
 ## Containers, microservices, functions, orchestration
 
+<a href="https://www.honeycomb.io/observability/" target="_blank">Honeycomb Observability Archives</a>
+
 <a href="https://gist.github.com/acolyer/23043b422046803d0a78ceb934fa8cc0" target="_blank">A Colyer blog: container related posts</a>
 
 <a href="https://docs.docker.com/" target="_blank">Docker docs</a>
