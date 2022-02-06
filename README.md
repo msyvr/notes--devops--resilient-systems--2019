@@ -14,8 +14,6 @@ Info on serverless &amp; microservices (containers, composition/load balancers, 
 
 ## Containers, microservices, functions, orchestration
 
-<a href="https://www.honeycomb.io/observability/" target="_blank">Honeycomb Observability Archives</a>
-
 <a href="https://gist.github.com/acolyer/23043b422046803d0a78ceb934fa8cc0" target="_blank">A Colyer blog: container related posts</a>
 
 <a href="https://docs.docker.com/" target="_blank">Docker docs</a>
@@ -31,6 +29,8 @@ Martin Fowler's site: <a href="https://martinfowler.com/microservices/" target="
 <a href="https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29" target="_blank">Small functions considered harmful - Cindy Sridharan</a>
 
 ## Observability
+
+<a href="https://www.honeycomb.io/observability/" target="_blank">Honeycomb Observability Archives</a>
 
 <a href="https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058" target="_blank">JBD from Google: Google's approach to observability</a>
 
